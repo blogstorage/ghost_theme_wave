@@ -23,3 +23,5 @@
 @import "misc/kg.css";
 @import "misc/utilities.css";
 @import "misc/animations.css";
+
+@import "blog/sidebar_toc.css";
