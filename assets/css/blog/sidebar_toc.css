@@ -1,9 +1,9 @@
 /* 添加侧边栏目录 */
 /* Adjust content wrapper */
-.post-content {
+/* .post-content {
     display: block;
     margin-left: 12%;
-}
+} */
 
 /* Adjustments to wide and full width cards */
 .kg-gallery-card,
@@ -25,12 +25,6 @@ figure.kg-width-full img {
 .post-full-content pre {
     max-width: 0;
 }
-
-
-
-
-
-
 
 .post-content h2,
 .post-content h3 {
